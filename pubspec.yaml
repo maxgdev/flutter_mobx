@@ -1,4 +1,4 @@
-name: flutter_mobx
+name: flutter_mobx_demo
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -13,13 +13,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-mobx: ^0.3.10
-flutter_mobx: ^0.3.4+1
-provider: ^3.2.0
+  mobx: ^0.3.10
+  flutter_mobx: ^0.3.4+1
+  provider: ^5.0.0
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.2
+# The following adds the Cupertino Icons font to your application.
+# Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
 
 dev_dependencies:
   flutter_test:
